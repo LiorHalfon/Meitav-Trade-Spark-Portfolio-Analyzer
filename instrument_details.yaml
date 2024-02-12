@@ -1,0 +1,160 @@
+# instruments:
+#   instrument_name:
+#     geo: "geographical location"
+#     type: "type of the instrument"
+#     sub_type: "sub type of the instrument"
+#     asset_class: "asset class of the instrument"
+
+instruments:
+  "Technology Select Sector Spdr Fund":
+    geo: "USA"
+    type: "S&P 500"
+    sub_type: "Pure Stocks ETF"
+    asset_class: "Equity"
+  "אפי נכסים אגחיג":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Individual Bond"
+    asset_class: "Fixed Income"
+  'דולר ארה"ב':
+    geo: "USA"
+    type: "USD Cash"
+    sub_type: "Cash"
+    asset_class: "Cash Equivalent"
+  "Jpmorgan Chase & Co":
+    geo: "USA"
+    type: "S&P 500"
+    sub_type: "Individual Stock"
+    asset_class: "Equity"
+  "ממשל שקלית 0327":
+    geo: "Israel"
+    type: "IL Government Bonds"
+    sub_type: "Individual Bond"
+    asset_class: "Fixed Income"
+  "תכ.תא125":
+    geo: "Israel"
+    type: "TLV 125"
+    sub_type: "Pure Stocks ETF"
+    asset_class: "Equity"
+  "איילון (00) כספית":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "הראל כספית מגמת ריבית":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "פסגות כספית פטורה":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "מיטב כספית ניהול נזילות":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "איביאי כספית ניהול נזילות":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "קסם אקטיב כספית שקלית":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "T-Mobile Us Inc":
+    geo: "USA"
+    type: "S&P 500"
+    sub_type: "Individual Stock"
+    asset_class: "Equity"
+  "פיבי":
+    geo: "Israel"
+    type: "TLV 125"
+    sub_type: "Individual Stock"
+    asset_class: "Equity"
+  "מגה אור  אגח  י":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Individual Bond"
+    asset_class: "Fixed Income"
+  "איביאי כספית שקלית":
+    geo: "Israel"
+    type: "Monetary Fund"
+    sub_type: "Monetary Fund"
+    asset_class: "Cash Equivalent"
+  "מגדל מדינה + 15%":
+    geo: "Israel"
+    type: "IL Government Bonds"
+    sub_type: "Bond&Stock ETF"
+    asset_class: "Fixed Income"
+  "תכלית TTF תא 125":
+    geo: "Israel"
+    type: "TLV 125"
+    sub_type: "Pure Stocks ETF"
+    asset_class: "Equity"
+  "תכלית TTF תלבונד ש 1-3":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Bond ETF"
+    asset_class: "Fixed Income"
+  "MTF מח אנ מש בנק 2080":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Bond&Stock ETF"
+    asset_class: "Fixed Income"
+  "הראל מחקהאנדריאA-AAA פקט":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Bond ETF"
+    asset_class: "Fixed Income"
+  "MTF מח 100 NASDAQ ממ":
+    geo: "Israel"
+    type: "S&P 500"
+    sub_type: "Pure Stocks ETF"
+    asset_class: "Equity"
+  "תכלית TTF תלבונד צמוד 1-3":
+    geo: "Israel"
+    type: "IL Inflation Protected Bonds"
+    sub_type: "Bond ETF"
+    asset_class: "Fixed Income"
+  "חשמל     אגח 27":
+    geo: "Israel"
+    type: "IL Corporate Bonds"
+    sub_type: "Individual Bond"
+    asset_class: "Fixed Income"
+  "Ishares Iboxx Usd Investment Grade Corporate Bond Etf":
+    geo: "USA"
+    type: "US Corporate Bonds"
+    sub_type: "Bond ETF"
+    asset_class: "Fixed Income"
+  "Delta Air Lines Inc (De)":
+    geo: "USA"
+    type: "S&P 500"
+    sub_type: "Individual Stock"
+    asset_class: "Equity"
+  "HPE 4.9 10/25":
+    geo: "USA"
+    type: "US Corporate Bonds"
+    sub_type: "Individual Bond"
+    asset_class: "Fixed Income"
+  "Ishares Msci Usa Esg Select Etf":
+    geo: "USA"
+    type: "S&P 500"
+    sub_type: "Pure Stocks ETF"
+    asset_class: "Equity"
+  "LQDA USDאשס.חוץ":
+    geo: "USA"
+    type: "US Corporate Bonds"
+    sub_type: "Bond ETF"
+    asset_class: "Fixed Income"
+
+
+
+
+
+
+
