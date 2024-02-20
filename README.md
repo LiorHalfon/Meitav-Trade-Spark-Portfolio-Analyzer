@@ -1,4 +1,4 @@
-# Meitav Trade Spark Portfolio Analyzer
+# Meitav-Trade-Spark-Portfolio-Analyzer
 
 ## Overview
 A tool to get some visualizations over data from Meitav Trade Spark platform. (since Meitav builtin visualizations sucks)
