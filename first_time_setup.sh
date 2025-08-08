@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Meitav Trade Spark Portfolio Analyzer - First Time Setup Script
+# Spark Portfolio Analyzer - First Time Setup Script
 # This script creates a virtual environment, activates it, and installs required packages
 
 set -e  # Exit on any error
 
-echo "🚀 Starting first time setup for Meitav Trade Spark Portfolio Analyzer..."
+echo "🚀 Starting first time setup for Spark Portfolio Analyzer..."
 
 # Check if Python 3 is installed
 if ! command -v python3 &> /dev/null; then
